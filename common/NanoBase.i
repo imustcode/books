@@ -1,0 +1,9 @@
+%module NanoBase
+%include "Misc.h"
+%include "Color.h"
+%include "Config.h"
+%include "World.h"
+%include "Sys.h"
+%include "Entity.h"
+%include "Arrow.h"
+%include "Box.h"
